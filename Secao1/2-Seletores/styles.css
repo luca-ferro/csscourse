@@ -1,0 +1,44 @@
+/* afeta todo o conteúdo do negócio */
+
+* {
+    background-color: orange;
+}
+
+/* afeta tudo que estiver dentro do body */
+
+body {
+    background-color: white;
+}
+
+/* classe */
+
+.fundo-vermelho {
+    background-color: red;
+}
+
+/* id */
+
+#id {
+    background-color: black;
+    color: white;
+}
+
+/* tipo */
+
+[type="text"] {
+    color: white;
+}
+
+.botao {
+    width: 100%;
+    background-color: red;
+    color: white;
+}
+
+.saopaulo {
+    position: fixed;
+    top: 60px;
+    left: 450px;
+    width: 10%;
+    background: none;
+}

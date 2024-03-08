@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="styles.css">
+        <script>
+            function playSound() {
+                var audio = document.getElementById("audio");
+                audio.play();
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p class="fundo-vermelho">This is a class-styled paragraph.</p>
+        <p id="id">This is an ID-styled paragraph</p>
+        <p type="text">This is a type text paragraph</p>
+        <button type="button" class="botao" onclick="playSound()">Toca o hino</button>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/S%C3%A3o_Paulo_Futebol_Clube.png"
+        class="saopaulo">
+        <audio id="audio" src="hino-sao-paulo-fc.mp3"></audio>
+    </body>
+</html>
