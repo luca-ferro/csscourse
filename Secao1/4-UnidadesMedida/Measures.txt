@@ -1,0 +1,19 @@
+Absolute measures:
+	- Centimeters (cm)
+	- Milimiters (mm)
+	- Inches (in)
+	- Pixels (px)
+	- Points (pt)
+	- Picas (pc)
+	
+Relative measures:
+	- Percentage (%)
+	- M (em) 					/* Preciso rever esse aqui com áudio */
+	- Root M (rem) 				/* Preciso rever esse aqui com áudio */
+	- Character unit (ch) 		/* Preciso rever esse aqui com áudio */
+	- X (ex) 					/* Preciso rever esse aqui com áudio */
+	- Viewport Width (vw)
+	- Viewport Height (vh)
+	- Minimum Viewport (vmin)
+	- Maximum Viewport (vmax)
+	- Remaining fraction (fr) 	/* Preciso rever esse aqui com áudio */
